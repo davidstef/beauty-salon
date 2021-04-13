@@ -1,0 +1,67 @@
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Tania Loreana\source\lab2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\40727\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\40727\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Pc\Documents\PS\LAb3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserForm.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.AddService.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.CreateEmployeeAccountForm.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.DeleteService.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.UpdateService.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.ViewAppointmentsBetweenDates.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.AdminGUI.ViewClientAppointmentsForm.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UserGuI.CreateAppointmentForm.resources
+C:\Users\Pc\Documents\PS\proiectPS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources

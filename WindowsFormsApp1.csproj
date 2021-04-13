@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{410103FB-1E18-4CD4-BE39-6D3798A0B40A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Repository\Interfaces\IAppointmentRepository.cs" />
+    <Compile Include="Repository\Interfaces\IServiceRepository.cs" />
+    <Compile Include="Repository\Interfaces\IUserRepository.cs" />
+    <Compile Include="Service\AppointmentService.cs" />
+    <Compile Include="Service\ServiceService.cs" />
+    <Compile Include="Service\UserService.cs" />
+    <Compile Include="Repository\Repositories\AppointmentRepository.cs" />
+    <Compile Include="Repository\Repositories\ServiceRepository.cs" />
+    <Compile Include="Entities\Appointment.cs" />
+    <Compile Include="Entities\Service.cs" />
+    <Compile Include="GUI\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\AddService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\AddService.Designer.cs">
+      <DependentUpon>AddService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\CreateEmployeeAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\CreateEmployeeAccountForm.Designer.cs">
+      <DependentUpon>CreateEmployeeAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\DeleteService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\DeleteService.Designer.cs">
+      <DependentUpon>DeleteService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\UpdateService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\UpdateService.Designer.cs">
+      <DependentUpon>UpdateService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\ViewAppointmentsBetweenDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\ViewAppointmentsBetweenDates.Designer.cs">
+      <DependentUpon>ViewAppointmentsBetweenDates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\ViewClientAppointmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AdminGUI\ViewClientAppointmentsForm.Designer.cs">
+      <DependentUpon>ViewClientAppointmentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserGUI\CreateAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\UserGUI\CreateAppointmentForm.Designer.cs">
+      <DependentUpon>CreateAppointmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="GUI\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repository\Repositories\UserRepository.cs" />
+    <EmbeddedResource Include="GUI\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\AddService.resx">
+      <DependentUpon>AddService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\CreateEmployeeAccountForm.resx">
+      <DependentUpon>CreateEmployeeAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\DeleteService.resx">
+      <DependentUpon>DeleteService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\UpdateService.resx">
+      <DependentUpon>UpdateService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\ViewAppointmentsBetweenDates.resx">
+      <DependentUpon>ViewAppointmentsBetweenDates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AdminGUI\ViewClientAppointmentsForm.resx">
+      <DependentUpon>ViewClientAppointmentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserGUI\CreateAppointmentForm.resx">
+      <DependentUpon>CreateAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
